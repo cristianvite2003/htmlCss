@@ -1,0 +1,128 @@
+body {
+background:#ADD8E6;
+border:10px groove red;
+}
+div h1{
+background:blue;
+border:7px ridge white;
+margin-left:15px;
+margin-right:15px;
+}
+#res {
+color:white;
+text-align:center;
+}
+#head-2 {
+font-family: 'Fjalla One', sans-serif;
+font-size:35px;
+text-align:center;
+}
+.photo {
+border:10px dotted black;
+margin-left:20px;
+}
+#group {
+margin-left:190px;
+}
+#rome-one {
+margin-left:180px;
+}
+a:hover {
+background:white;
+}
+h1 {
+font-family: 'Merriweather', serif;
+margin-left:10px;
+}
+p {
+font-family: 'Lora', serif;
+font-size:25px;
+margin-left:10px;
+}
+.pics {
+margin-left:10px;
+border:7px groove white
+}
+.line {
+margin-left:5px;
+margin-right:5px;
+color:white;
+height:2px;
+background:white;
+}
+h2 {
+margin-left:10px;
+font-size:35px;
+}
+.table {
+text-align:center;
+margin-right:50px;
+margin-left:500px;
+font-size:30px;
+}
+#paris {
+float:left;
+}
+table, th, td {
+border:5px solid black;
+}
+table {
+background:white;
+}
+#new-york {
+float:left;
+margin-top:20px;
+}
+#new-p {
+text-align:center;
+}
+div table {
+position: relative; 
+top: -150px;
+}
+#rome-p {
+position: relative;
+top: -100px;
+}
+#size {
+font-size:25px;
+}
+#rome-table {
+position: relative; 
+top: -70px;
+}
+#cancun-table {
+margin-top:20px;
+}
+#cancun-mexico {
+margin-top:30px;
+}
+#cancun-p {
+text-align:center;
+position:relative;
+top: -100px;
+}
+#england-table {
+position:relative;
+top: -50px
+}
+li {
+font-size:30px;
+}
+#london-p {
+position:relative;
+top: -100px;
+}
+#div-h2 {
+text-align:center;
+background:white;
+position:relative;
+top: -57px;
+}
+#line-two {
+position:relative;
+top: -75px;
+}
+#last {
+font-size:55px;
+}
